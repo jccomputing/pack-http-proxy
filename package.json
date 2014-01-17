@@ -1,5 +1,5 @@
 {
-	"name": "httpproxy",
+	"name": "http-proxy",
 	"types": ["pack"],
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-http-proxy",
