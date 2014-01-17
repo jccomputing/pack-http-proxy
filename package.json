@@ -18,7 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-http-proxy",
 	"keywords": [
 	  "pack",
-	  "httpproxy"
+	  "http",
+	  "proxy"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
