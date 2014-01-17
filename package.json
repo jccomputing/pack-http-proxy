@@ -2,7 +2,7 @@
 	"name": "http-proxy",
 	"types": ["pack"],
 	"version": "1.4",
-	"homepage": "https://github.com/shinken-monitoring/pack-http-proxy",
+	"homepage": "https://github.com/jccomputing/pack-http-proxy",
 	"author": "Jean Gabès",
 	"description": "HTTP forward proxy checks",
 	"contributors": [
@@ -15,7 +15,7 @@
 		"email": "jeanclaude.computing@gmail.com"
 	  }
 	],
-	"repository": "https://github.com/shinken-monitoring/pack-http-proxy",
+	"repository": "https://github.com/jccomputing/pack-http-proxy",
 	"keywords": [
 	  "pack",
 	  "http",
